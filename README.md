@@ -1,7 +1,11 @@
-#  Hey there, I'm Arpit Dhoundiyal!
 
- A curious mind and Android developer who turns coffee ☕ into Kotlin code 📱  
- I love building apps that are not just functional—but feel good to use!
+<h1>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand Emoji" width="30px"/> 
+  Hi, I'm Arpit</a>!
+</h1>
+A curious mind and Android developer who turns coffee into Kotlin code
+ 
+ I love building apps that are not just functional but feel good to use!
 
 ---
 
@@ -23,12 +27,14 @@
 ---
 
 ## Let’s Connect!
-
-📬 arpitdhoundiyal@gmail.com  
-
-🤝 Open to internships, team collabs or just chatting about tech & tacos 🌮
+ arpitdhoundiyal@gmail.com  
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="30px" alt="Hand Shake Emoji"/> Open to internships, team collabs or just chatting about tech & tacos <img 
+    src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Taco.png" 
+    alt="Taco Emoji" 
+    width="30px" 
+  />
 
 #  Tech Stack:
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)  ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
